@@ -14,4 +14,4 @@
 
 BOSS 有特殊掉落素材。
 
-[[技能]] [素材](https://github.com/EdisonJun/Game/blob/main/detail/%E7%B4%A0%E6%9D%90.md) [[怪物]]
+[技能](https://github.com/EdisonJun/Game/blob/main/detail/%E6%80%AA%E7%89%A9.md) [素材](https://github.com/EdisonJun/Game/blob/main/detail/%E7%B4%A0%E6%9D%90.md) [怪物](https://github.com/EdisonJun/Game/blob/main/detail/%E6%8A%80%E8%83%BD.md)
